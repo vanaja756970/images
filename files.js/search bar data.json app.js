@@ -1,0 +1,33 @@
+[
+    {
+        "Name":"vicky",
+        "Place":"hyderabad",
+        "Age":20
+    },
+    {
+        "Name":"vamsi",
+        "Place":"mumbai",
+        "Age":18
+    },
+    {
+        "Name":"appu",
+        "Place":"Delhi",
+        "Age":25
+    },
+    {
+        "Name":"Vanaja",
+        "Place":"Banglore",
+        "Age":22
+    },
+    
+    {
+        "Name":"vardhan",
+        "Place":"chennai",
+        "Age":15
+    },
+    {
+        "Name":"somu",
+        "Place":"kolkata",
+        "Age":25
+    }
+]

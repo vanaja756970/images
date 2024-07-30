@@ -1,0 +1,39 @@
+[
+    {
+        "Name":"vicky",
+        "Place":"hyderabad",
+        "Age":20,
+        "Pic":"https://th.bing.com/th/id/OIP.7RgG8E58PfgB0UVU-R1tRwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "Name":"vamsi",
+        "Place":"mumbai",
+        "Age":18,
+        "Pic":"https://th.bing.com/th/id/OIP.ot-Q8JK7SORTbVwNQP4TlAHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+        "Name":"appu",
+        "Place":"Delhi",
+        "Age":25,
+        "Pic":"https://www.mistay.in/travel-blog/content/images/size/w2000/2020/06/cover-10.jpg"
+    },
+    {
+        "Name":"Vanaja",
+        "Place":"Banglore",
+        "Age":22,
+        "Pic":"https://th.bing.com/th/id/OIP.rjen75bz9ZydUlTQ8vruoQHaE6?rs=1&pid=ImgDetMain"
+    },
+    
+    {
+        "Name":"vardhan",
+        "Place":"chennai",
+        "Age":15,
+        "Pic":"https://www.fodors.com/wp-content/uploads/2019/12/07_ChennaiArchitecture__MadrasHighcourt_shutterstock_300565766.jpg"
+    },
+    {
+        "Name":"somu",
+        "Place":"kolkata",
+        "Age":25,
+        "Pic":"https://static2.tripoto.com/media/transfer/img/OgData/1500874108_victoria_memorial_hall_kolkata.jpg"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+    "name":"vicky",
+    "place":"delhi",
+    "age":22
+    },
+    {
+        "name":"vamsi",
+        "place":"kadapa",
+        "age":20
+        },
+        {
+            "name":"vardhan",
+            "place":"pulivendula",
+            "age":18
+            }
+]
